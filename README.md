@@ -1,1 +1,1 @@
-#Yönlendirilmiş Çalışma Projesi
+# Yönlendirilmiş Çalışma Projesi
