@@ -1,1 +1,1 @@
-# EnesEfeAcikgoz22-23FormulaBlog
+#Yönlendirilmiş Çalışma Projesi
